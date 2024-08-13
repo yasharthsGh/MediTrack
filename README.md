@@ -8,9 +8,6 @@ Medical hospital management system project is developed by 'JAVA' at Backend and
    
    It provides some enhanced features such as: an easy interface to add, remove employees as well as it provides  of prescription. Thus, reducing need to manually write  and  sign  by doctor.  <br>
 
-   ## Technologies Used-
-  ![Technologies used](https://github.com/Thenaveen-hub/Medical/assets/140473308/4fe1cc80-ee9c-4b78-ae23-fa3c9745f869)
-
 
 
 ### 1. Front end Technologies:
@@ -51,13 +48,15 @@ Medical hospital management system project is developed by 'JAVA' at Backend and
 
 **2. User Login**
 
+![image](https://github.com/user-attachments/assets/42ef5377-410f-42df-9d8a-d70bec54e4eb)
 
 
 **3. About us**
-
+![image](https://github.com/user-attachments/assets/fa2d1218-2656-4737-b0c7-1278293f468b)
 
 
 **4. User Homepage**
+![image](https://github.com/user-attachments/assets/8adc3f98-2032-4ac6-886b-c5d0ee4c857d)
 
 
 
