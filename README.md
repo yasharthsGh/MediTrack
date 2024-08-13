@@ -46,6 +46,7 @@ Medical hospital management system project is developed by 'JAVA' at Backend and
 
 **1. Homepage**
 
+![image](https://github.com/user-attachments/assets/90954659-c538-437d-9e8a-2af33d5def4f)
 
 
 **2. User Login**
