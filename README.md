@@ -32,21 +32,6 @@ Medical hospital management system project is developed by 'JAVA' at Backend and
   
 ### 5. Webserver:
   - Apache Tomcat
-
-## Steps to configure this HMS web-application on your system:
-
-1. To import this project to your system, you need to first install below softwares: 
-   - Eclipse for Java EE Developers and Tomcat server. You can refer this video: https://youtu.be/9iHKCnxUWqQ
-   - MySQL Workbench. You can refer this video: https://youtu.be/OM4aZJW_Ojs
-
-2. Then get the code from this GitHub repository on your system. You can clone this repository or download as zip file.
-
-3. Choose 'import existing maven project' option in eclipse. 
-<br> You can search for those steps online, just search 'how to import existing maven project in eclipse'. 
-
-4. You can then run this web-application on your Tomcat server --version 9.0 preferred.
-   
-5. Run The "_index1.jsp_"  File and see the magic
   
   > ## Issues that proposed system overcomes-
   - It is digital system rather than paper based.
