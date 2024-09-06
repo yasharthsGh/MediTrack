@@ -61,15 +61,17 @@ Medical hospital management system project is developed by 'JAVA' at Backend and
 
 
 **5. Appointment page**
+![image](https://github.com/user-attachments/assets/3db757fb-d4e7-4750-a1ec-584559bed32e)
 
 
 
 **6. Previous Appointment**
+![image](https://github.com/user-attachments/assets/687b82ba-27ba-47eb-a50b-fa83b6e7738c)
 
 
 
 **7. patient Details page**
 
-
+![image](https://github.com/user-attachments/assets/a013755c-9f36-4431-ba0d-d9dcdecef59b)
 
 ### Thank You !
